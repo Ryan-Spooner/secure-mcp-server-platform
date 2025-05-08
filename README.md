@@ -1,6 +1,5 @@
 # Secure Model Context Protocol (SMCP)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/badge/Discord-SMCP-576B88?style=flat-square&logo=discord)](https://discord.gg/uVjMgqBZAP)
 [![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](docs/CONTRIBUTING.md)
 
