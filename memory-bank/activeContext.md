@@ -1,23 +1,24 @@
 # Active Context
 *Purpose: Tracks the immediate state of work for AI assistance.*
 *Updates: Sections often replaced by AI based on recent activity.*
-*Timestamp: 2025-05-08 08:50:00*
+*Timestamp: 2025-05-08 09:48:00*
 ---
 ## Current Focus
-* Completed revision of `draft.windsurfrules` and all specified `memory-bank` files to align with SMCP principles and project goals.
+*   Planning and initiating content development for the SMCP Educational Toolkit. This includes populating:
+    *   `docs/tutorials/` (mcp-basics, mcp-troubleshooting, creating-custom-mcp-server).
+    *   `examples/universal-mcp-showcase/` (client and server implementations and READMEs).
+    *   `project-templates/` (Python server and JavaScript client templates with code and READMEs).
 
 ## Recent Significant Changes (Last 1-2 sessions)
-*   Updated `draft.windsurfrules`:
-    *   Revised `initial_content_templates` for `productContext.md`, `systemPatterns.md`, and `progress.md` to align with SMCP.
-    *   Changed `update_strategy` for `productContext.md` to `REPLACE_SECTION`.
-*   Updated `memory-bank/productContext.md`: Replaced content with the SMCP-aligned template.
-*   Updated `memory-bank/activeContext.md`: Reflected ongoing file revision tasks (now completed).
-*   Updated `memory-bank/progress.md`: Aligned with SMCP template and updated task statuses.
-*   Updated `memory-bank/decisionLog.md`: Added entry for SMCP alignment revisions.
-*   Updated `memory-bank/systemPatterns.md`: Aligned with SMCP template, incorporating existing conventions.
+*   Created initial project file and directory structure to prepare for public access and community contributions. This includes:
+    *   Root files: `LICENSE`, `.gitignore`.
+    *   `docs/` directory with `CONTRIBUTING.md` (existing), `CODE_OF_CONDUCT.md` (existing), and placeholders for `tutorials/mcp-basics.md`, `tutorials/mcp-troubleshooting.md`, `tutorials/creating-custom-mcp-server.md`.
+    *   `examples/universal-mcp-showcase/` with placeholder `README.md` files for the showcase and its `client/` and `server/` subdirectories.
+    *   `project-templates/` with placeholder `README.md` files for `python-mcp-server-template/` and `javascript-mcp-client-template/`.
+*   Aligned all `memory-bank` files and `draft.windsurfrules` (now `.windsurfrules`) with SMCP project goals.
 
 ## Open Questions / Blockers / Issues
-* [Any unresolved questions, dependencies, or problems hindering progress]
+*   None currently.
 
 ## Next Immediate Step(s)
-* Awaiting next user instruction.
+*   Begin development of the first planned task, likely starting with `docs/tutorials/mcp-basics.md` or one of the example/template READMEs, as directed by the user.
