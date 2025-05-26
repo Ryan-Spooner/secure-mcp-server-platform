@@ -7,7 +7,7 @@ The Secure Model Context Protocol (SMCP) project is dedicated to advancing the u
 1.  **Educational Empowerment:** To provide comprehensive resources, examples, and tutorials that enable developers to master MCP, build robust MCP servers, and integrate them effectively.
 2.  **Platform Foundation:** To evolve into an open-source platform featuring a curated MCP Server Catalog and tools for creating containerized AI systems leveraging MCP.
 
-SMCP is an initiative born from the [Dynamous AI Community](https://dynamous.ai), fostering open protocols and open-source solutions.
+SMCP is an initiative to foster open protocols, open-source solutions, and security-first platforms.
 
 ## What is MCP?
 
